@@ -1,5 +1,5 @@
-import { component, bind, render, state } from "../libs/modifiers";
-import { html } from "../libs/bindings/html";
+import { component, bind, render, state } from "#bpjs/modifiers";
+import { html } from "#bpjs/bindings/html";
 
 @component
 export default class Counter {

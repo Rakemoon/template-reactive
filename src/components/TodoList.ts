@@ -1,10 +1,11 @@
-import { html } from "../libs/bindings/html";
-import { bind, component, render, state } from "../libs/modifiers";
+import { html } from "#bpjs/bindings/html";
+import { bind, component, render, state } from "#bpjs/modifiers";
 
 type TodoListItem = {
   title: string;
   timestamp: number;
 }
+
 @component
 export default class TodoList {
   @state private list: TodoListItem[] = [];

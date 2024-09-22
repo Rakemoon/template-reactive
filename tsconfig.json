@@ -19,7 +19,11 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "baseUrl": ".",
+    "paths": {
+      "#bpjs/*": ["src/libs/*"]
+    }
 
   },
   "include": ["src"]

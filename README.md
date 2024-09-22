@@ -1,6 +1,8 @@
-<img src="https://media.discordapp.net/attachments/1245762013075083431/1286748741335781399/BPJS.png?ex=66ef09a6&is=66edb826&hm=0b3749134464819cdc9af31c4dac7865bd26ce9d76c577f01d88e8cab8704d6b&=&format=webp&quality=lossless&width=306&height=280" alt="logo"/>
+<center>
+  <img src="https://media.discordapp.net/attachments/1245762013075083431/1286748741335781399/BPJS.png?ex=66ef09a6&is=66edb826&hm=0b3749134464819cdc9af31c4dac7865bd26ce9d76c577f01d88e8cab8704d6b&=&format=webp&quality=lossless&width=306&height=280" alt="logo"/>
+</center>
 
-<h1>BP.JS</h1>
+# BPJS
 
 > [!CAUTION]
 > This project is heavily Work In Progress. if you have some feature request or bugs please let me know.
